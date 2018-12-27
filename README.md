@@ -1,2 +1,6 @@
-# meaning-making
-In this space, I will be drafting a syllabus and content for a course I wish to teach on meaning-making
+# Tribes, Narratives, & Meaning-Making
+
+## Table of Contents
+- [Unit 1: Information Overload](#unit-1)
+
+### Unit 1: Information Overload 
